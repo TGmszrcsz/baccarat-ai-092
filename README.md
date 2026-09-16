@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：复查实践
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 091 篇 - 百家乐Ai预测分析工具：首次打开工具时完成一轮基础核对](https://github.com/TGmszrcsz/baccarat-ai-091) ｜ [下一篇：第 093 篇 - 百家乐Ai预测分析工具：网络中断再恢复时怎样补齐历史](https://github.com/TGmszrcsz/baccarat-ai-093)
+
+<!-- article-chain:end -->
+
 切换到新房间，侧栏仍保留上一房间的历史。本篇围绕“切换房间后检查是否混入旧数据”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
